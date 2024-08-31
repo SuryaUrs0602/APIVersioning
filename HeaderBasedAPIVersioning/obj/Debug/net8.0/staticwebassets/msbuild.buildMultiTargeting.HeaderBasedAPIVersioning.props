@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HeaderBasedAPIVersioning.props" />
+</Project>

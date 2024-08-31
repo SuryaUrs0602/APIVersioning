@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JHJKe/QLJqtCeJj3E+KEIdKNzRhnG1XqjamdfgzR9DY=",
+  "Source": "URLBasedAPIVersioning",
+  "BasePath": "_content/URLBasedAPIVersioning",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FwYutNhJAz/KN7s8PbrRTmsAkgSMqfy2BMzg+oAI31Y=",
+  "Source": "HeaderBasedAPIVersioning",
+  "BasePath": "_content/HeaderBasedAPIVersioning",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

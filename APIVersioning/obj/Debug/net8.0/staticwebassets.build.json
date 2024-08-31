@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PYQRmTEXtrtX3+bYTVltiHUMCCHwAisGSucz7kWFpOk=",
+  "Source": "QueryBasedAPIVersioning",
+  "BasePath": "_content/QueryBasedAPIVersioning",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
